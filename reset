@@ -1,0 +1,14 @@
+[1mdiff --git a/file1 b/file1[m
+[1mindex 5c0df0d..52c1a26 100644[m
+[1m--- a/file1[m
+[1m+++ b/file1[m
+[36m@@ -1,4 +1,6 @@[m
+ [m
+ #heading[m
+ [m
+[31m-Hello World From Git[m
+\ No newline at end of file[m
+[32m+[m[32mHello World From Git[m
+[32m+[m[32mGit is better with Github[m
+[32m+[m[32mLearn Git, and AWS to get a great job[m
+\ No newline at end of file[m
